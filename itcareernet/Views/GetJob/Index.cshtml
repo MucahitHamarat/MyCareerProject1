@@ -1,0 +1,43 @@
+﻿
+@using Career.BOL.Entities
+@model FindEmployeeSubCats
+
+
+
+    <!-- end header -->
+
+    <section id="inner-headline">
+        <div class="container">
+            <div class="row">
+
+
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col"><h3>Size uygun @ViewData["JobCount"] ilan bulunmaktadır</h3></th>
+                           
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @{
+                            foreach (FindEmployeeSubCats hbf in ViewBag.getJob)
+                            {
+                        <tr onmouseover="st?">  @*BURADA KALDIIIIIIIIIIIIIIIIIIIIIIIIIN,RENGİNİ DEĞİŞTİR.sONRA İLAN EKLME VIEWİINDE CK EDITOR KULLAN*@
+                            @*<th scope="row"><img src="~/Content/img/@hbf.Picture" style="width:130px;height:100px"  /></th>*@
+                            <td style="font:bold">@hbf.CompanyName</td>
+                            <td>@hbf.JobTitle</td>
+
+                        </tr>
+                            }
+                        }
+
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+

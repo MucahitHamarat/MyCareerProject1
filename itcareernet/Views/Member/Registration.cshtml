@@ -1,0 +1,39 @@
+﻿@{ Layout = null; }
+<form action="/Member/Registration" method="post" role="form" class="contactForm">
+    @Html.AntiForgeryToken()
+    <div class="successfull"><h1 style="text-align:center;color:#DD4B39">@TempData["Kaydedildi"]</h1></div>
+    <div id="login-box">
+        <div class="left">
+
+            <h1 style="color:aliceblue;font-weight:bold">Kayıt Ol</h1>
+
+            <input type="text" name="Username" placeholder="Kullanıcı Adı" required="" data-msg="Lütfen en az 4 karakter giriniz." />
+            <input type="text" name="Email" placeholder="E-mail" required="" data-rule="email" data-msg="Lütfen geçerli bir email adresi giriniz" />
+            <input type="password" name="Password" placeholder="Şifre" required="" maxlength="12" data-msg="Şifreniz 12 haneyi geçmemeli" />
+            <input type="password" name="Password2" placeholder="Şifre tekrarı" required="" maxlength="12" data-msg="Lütfen aynı şifreyi giriniz" />
+            <div class="wthree-text">
+                <label class="anim">
+                    <input type="checkbox" class="checkbox" required="" name="Acceptation" value="true">
+                    <span style="font-size:small">Kaydol düğmesine tıklayarak,<a href="#">Koşullarımızı, Veri İlkemizi ve Çerezler İlkemizi </a> kabul etmiş olursun.</span>
+                </label>
+                <a href="#"></a>
+                <div class="clear"></div>
+            </div>
+            <input type="submit" name="signup_submit" value="KAYDOL" />
+
+        </div>
+
+        <div class="right">
+            <span class="loginwith" style="color:aliceblue;font-weight:bold">Sosyal ağlarla<br />giriş yap</span>
+
+            <button class="social-signin facebook">facebook ile giriş yap</button>
+            <button class="social-signin twitter">Twitter ile giriş yap</button>
+
+            <h5 style="text-align:center"><a href="/Home" style="text-decoration:none"><i class="home"></i> Ana Sayfaya Dön</a></h5>
+            <h5 style="text-align:center"><a href="/Home/SignIn" style="text-decoration:none"><i class="home"></i> Giriş Yap</a></h5>
+        </div>
+        <div class="or">OR</div>
+    </div>
+</form>
+<link href="~/Content/css/zzmain.css" rel="stylesheet" />
+

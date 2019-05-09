@@ -1,0 +1,100 @@
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\bin\Debug\Career.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\bin\Debug\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\bin\Debug\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\bin\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\bin\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\obj\Debug\Career.DAL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\obj\Debug\Career.DAL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\obj\Debug\Career.DAL.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\obj\Debug\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.DAL\obj\Debug\Career.DAL.pdb
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\bin\Debug\Career.DAL.dll.config
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\bin\Debug\Career.DAL.dll
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\bin\Debug\Career.DAL.pdb
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\bin\Debug\Career.BOL.dll
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\bin\Debug\Career.BOL.pdb
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\obj\Debug\Career.DAL.csprojAssemblyReference.cache
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\obj\Debug\Career.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\obj\Debug\Career.DAL.csproj.CopyComplete
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\obj\Debug\Career.DAL.dll
+C:\Users\Section1\Downloads\projeKariyer\Career.DAL\obj\Debug\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\bin\Debug\Career.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\bin\Debug\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\bin\Debug\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\bin\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\bin\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\obj\Debug\Career.DAL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\obj\Debug\Career.DAL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\obj\Debug\Career.DAL.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\obj\Debug\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.DAL\obj\Debug\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\bin\Debug\Career.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\bin\Debug\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\bin\Debug\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\bin\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\bin\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\obj\Debug\Career.DAL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\obj\Debug\Career.DAL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\obj\Debug\Career.DAL.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\obj\Debug\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.DAL\obj\Debug\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\bin\Debug\Career.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\bin\Debug\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\bin\Debug\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\bin\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\bin\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\obj\Debug\Career.DAL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\obj\Debug\Career.DAL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\obj\Debug\Career.DAL.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\obj\Debug\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.DAL\obj\Debug\Career.DAL.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\bin\Debug\Career.DAL.dll.config
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\bin\Debug\Career.DAL.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\bin\Debug\Career.DAL.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\bin\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\bin\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\obj\Debug\Career.DAL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\obj\Debug\Career.DAL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\obj\Debug\Career.DAL.csproj.CopyComplete
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\obj\Debug\Career.DAL.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.DAL\obj\Debug\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\bin\Debug\Career.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\bin\Debug\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\bin\Debug\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\bin\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\bin\Debug\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\bin\Debug\Facebook.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\bin\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\bin\Debug\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\bin\Debug\Facebook.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\obj\Debug\Career.DAL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\obj\Debug\Career.DAL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\obj\Debug\Career.DAL.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\obj\Debug\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.DAL\obj\Debug\Career.DAL.pdb

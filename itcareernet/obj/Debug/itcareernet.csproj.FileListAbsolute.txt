@@ -1,0 +1,925 @@
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\itcareernet.dll.config
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\itcareernet.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\itcareernet.pdb
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\csc.exe
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\csc.exe.config
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\csc.rsp
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\csi.exe
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\csi.exe.config
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\csi.rsp
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.AppContext.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Console.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.IO.Compression.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Security.Claims.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.ValueTuple.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\vbc.exe
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\vbc.exe.config
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\vbc.rsp
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\VBCSCompiler.exe
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\Antlr3.Runtime.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\Newtonsoft.Json.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.Helpers.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.Mvc.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.Optimization.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.Razor.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.WebPages.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.WebPages.Razor.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\WebGrease.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.Helpers.xml
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.Mvc.xml
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.Optimization.xml
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.Razor.xml
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.WebPages.xml
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Web.WebPages.Razor.xml
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\Newtonsoft.Json.xml
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\Antlr3.Runtime.pdb
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\E430\source\repos\itcareernet\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\E430\source\repos\itcareernet\itcareernet\obj\Debug\itcareernet.csprojAssemblyReference.cache
+C:\Users\E430\source\repos\itcareernet\itcareernet\obj\Debug\itcareernet.csproj.CoreCompileInputs.cache
+C:\Users\E430\source\repos\itcareernet\itcareernet\obj\Debug\itcareernet.csproj.CopyComplete
+C:\Users\E430\source\repos\itcareernet\itcareernet\obj\Debug\itcareernet.dll
+C:\Users\E430\source\repos\itcareernet\itcareernet\obj\Debug\itcareernet.pdb
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\itcareernet.dll.config
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\itcareernet.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\itcareernet.pdb
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\csc.exe
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\csc.exe.config
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\csc.rsp
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\csi.exe
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\csi.exe.config
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\csi.rsp
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Console.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\vbc.exe
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\vbc.rsp
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Antlr3.Runtime.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Newtonsoft.Json.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.Helpers.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.Mvc.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.Optimization.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.Razor.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.WebPages.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.WebPages.Razor.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\WebGrease.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.Helpers.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.Mvc.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.Optimization.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.Razor.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.WebPages.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Web.WebPages.Razor.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Newtonsoft.Json.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Antlr3.Runtime.pdb
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\obj\Debug\itcareernet.csprojAssemblyReference.cache
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\obj\Debug\itcareernet.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\obj\Debug\itcareernet.csproj.CopyComplete
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\obj\Debug\itcareernet.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\obj\Debug\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\itcareernet.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Antlr3.Runtime.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Newtonsoft.Json.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.Helpers.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.Mvc.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.Optimization.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.WebPages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.WebPages.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\WebGrease.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.Helpers.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.Mvc.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.Optimization.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.WebPages.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Web.WebPages.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Newtonsoft.Json.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Antlr3.Runtime.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\obj\Debug\itcareernet.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\obj\Debug\itcareernet.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\obj\Debug\itcareernet.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\obj\Debug\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\obj\Debug\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\EntityFramework.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\EntityFramework.xml
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\csc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\csc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\csc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\csi.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\csi.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\csi.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.AppContext.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Console.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.IO.Compression.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Security.Claims.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.ValueTuple.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\vbc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\vbc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\vbc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\VBCSCompiler.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Career.DAL.dll.config
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Career.BOL.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Career.DAL.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Career.BOL.pdb
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Career.DAL.pdb
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Career.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Career.BLL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Career.BLL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\itcareernet\bin\Career.BLL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\itcareernet.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\csc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\csc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\csc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\csi.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\csi.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\csi.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.AppContext.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Console.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.IO.Compression.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Security.Claims.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.ValueTuple.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\vbc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\vbc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\vbc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\VBCSCompiler.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Antlr3.Runtime.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Career.BLL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Newtonsoft.Json.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.Helpers.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.Mvc.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.Optimization.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.WebPages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.WebPages.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\WebGrease.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Career.BLL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Career.BLL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Career.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.Helpers.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.Mvc.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.Optimization.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.WebPages.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Web.WebPages.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Newtonsoft.Json.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Antlr3.Runtime.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\obj\Debug\itcareernet.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\obj\Debug\itcareernet.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\obj\Debug\itcareernet.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\obj\Debug\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\itcareernet\obj\Debug\itcareernet.pdb
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Career.BLL.dll
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Career.BLL.pdb
+C:\Users\Section1\Downloads\projeKariyer\itcareernet\bin\Career.BLL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\itcareernet.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\csc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\csc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\csc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\csi.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\csi.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\csi.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.AppContext.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Console.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.IO.Compression.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Security.Claims.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.ValueTuple.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\vbc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\vbc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\vbc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\VBCSCompiler.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Antlr3.Runtime.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Career.BLL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Newtonsoft.Json.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.Helpers.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.Mvc.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.Optimization.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.WebPages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.WebPages.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\WebGrease.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Career.BLL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Career.BLL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Career.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.Helpers.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.Mvc.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.Optimization.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.WebPages.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Web.WebPages.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Newtonsoft.Json.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Antlr3.Runtime.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\obj\Debug\itcareernet.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\obj\Debug\itcareernet.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\obj\Debug\itcareernet.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\obj\Debug\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\itcareernet\obj\Debug\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\itcareernet.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\csc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\csc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\csc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\csi.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\csi.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\csi.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.AppContext.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Console.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.IO.Compression.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Security.Claims.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.ValueTuple.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\vbc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\vbc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\vbc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\VBCSCompiler.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Antlr3.Runtime.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Career.BLL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Newtonsoft.Json.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.Helpers.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.Mvc.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.Optimization.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.WebPages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.WebPages.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\WebGrease.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Career.BLL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Career.BLL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Career.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.Helpers.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.Mvc.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.Optimization.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.WebPages.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Web.WebPages.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Newtonsoft.Json.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Antlr3.Runtime.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\obj\Debug\itcareernet.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\obj\Debug\itcareernet.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\obj\Debug\itcareernet.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\obj\Debug\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\obj\Debug\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\obj\Debug\itcareernet.App_LocalResources.Home.HeaderENG.resources
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\obj\Debug\itcareernet.App_LocalResources.Home.HeaderTR.resources
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\itcareernet\obj\Debug\itcareernet.csproj.GenerateResource.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\itcareernet.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\csc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\csc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\csc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\csi.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\csi.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\csi.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.AppContext.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Console.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.IO.Compression.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Security.Claims.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.ValueTuple.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\vbc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\vbc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\vbc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\VBCSCompiler.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Antlr3.Runtime.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Career.BLL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Newtonsoft.Json.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.Helpers.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.Mvc.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.Optimization.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.WebPages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.WebPages.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\WebGrease.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Career.BLL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Career.BLL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Career.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.Helpers.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.Mvc.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.Optimization.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.WebPages.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Web.WebPages.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Newtonsoft.Json.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Antlr3.Runtime.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\obj\Debug\itcareernet.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\obj\Debug\itcareernet.App_LocalResources.Home.HeaderENG.resources
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\obj\Debug\itcareernet.App_LocalResources.Home.HeaderTR.resources
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\obj\Debug\itcareernet.csproj.GenerateResource.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\obj\Debug\itcareernet.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\obj\Debug\itcareernet.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\obj\Debug\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje21Mart\itcareernet\obj\Debug\itcareernet.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\itcareernet.dll.config
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\itcareernet.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\itcareernet.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\csc.exe
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\csc.exe.config
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\csc.rsp
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\csi.exe
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\csi.exe.config
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\csi.rsp
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.AppContext.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Console.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.IO.Compression.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.Claims.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.ValueTuple.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\vbc.exe
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\vbc.exe.config
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\vbc.rsp
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\VBCSCompiler.exe
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Antlr3.Runtime.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.BLL.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.BOL.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.DAL.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\EntityFramework.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Newtonsoft.Json.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Helpers.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Mvc.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Optimization.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Razor.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.WebPages.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.WebPages.Razor.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\WebGrease.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.BLL.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.BLL.dll.config
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.BOL.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.DAL.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.DAL.dll.config
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\EntityFramework.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Helpers.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Mvc.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Optimization.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Razor.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.WebPages.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.WebPages.Razor.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Newtonsoft.Json.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Antlr3.Runtime.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.App_LocalResources.Home.HeaderENG.resources
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.App_LocalResources.Home.HeaderTR.resources
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.csproj.GenerateResource.cache
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.csproj.CopyComplete
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\itcareernet.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\csc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\csc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\csc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\csi.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\csi.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\csi.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.AppContext.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Console.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.IO.Compression.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.Claims.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.ValueTuple.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\vbc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\vbc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\vbc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\VBCSCompiler.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Antlr3.Runtime.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.BLL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Newtonsoft.Json.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Helpers.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Mvc.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Optimization.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.WebPages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.WebPages.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\WebGrease.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.BLL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.BLL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Helpers.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Mvc.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Optimization.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.WebPages.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Web.WebPages.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Newtonsoft.Json.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Antlr3.Runtime.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\bin\Career.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.App_LocalResources.Home.HeaderENG.resources
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.App_LocalResources.Home.HeaderTR.resources
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.csproj.GenerateResource.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje25Mart\itcareernet\obj\Debug\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\itcareernet.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\csc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\csc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\csc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\csi.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\csi.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\csi.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.AppContext.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Console.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.IO.Compression.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.IO.Pipes.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Security.Claims.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.ValueTuple.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\vbc.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\vbc.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\vbc.rsp
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\VBCSCompiler.exe
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Antlr3.Runtime.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Career.BLL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\EntityFramework.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\EntityFramework.SqlServer.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Newtonsoft.Json.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.Helpers.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.Mvc.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.Optimization.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.WebPages.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.WebPages.Razor.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\WebGrease.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Career.DAL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Career.BLL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Career.BLL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\EntityFramework.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\EntityFramework.SqlServer.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.Helpers.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.Mvc.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.Optimization.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.WebPages.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Web.WebPages.Razor.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Newtonsoft.Json.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Antlr3.Runtime.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Career.DAL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Career.DAL.dll.config
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\obj\Debug\itcareernet.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\obj\Debug\itcareernet.App_LocalResources.Home.HeaderENG.resources
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\obj\Debug\itcareernet.App_LocalResources.Home.HeaderTR.resources
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\obj\Debug\itcareernet.csproj.GenerateResource.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\obj\Debug\itcareernet.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\obj\Debug\itcareernet.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\obj\Debug\itcareernet.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\obj\Debug\itcareernet.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Facebook.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\itcareernet\bin\Facebook.xml

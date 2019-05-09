@@ -1,0 +1,98 @@
+﻿@model Career.BOL.Entities.FindEmployeeSubCats
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>FindEmployeeSubCats</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.CompanyName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CompanyName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.JobTitle)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.JobTitle)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Picture)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Picture)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.MilitaryState)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.MilitaryState)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Experience)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Experience)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.JobType)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.JobType)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.PosLevel)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.PosLevel)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

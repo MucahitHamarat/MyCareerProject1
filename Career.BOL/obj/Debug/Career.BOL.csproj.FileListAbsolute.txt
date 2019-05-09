@@ -1,0 +1,45 @@
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.BOL\bin\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.BOL\bin\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.BOL\obj\Debug\Career.BOL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.BOL\obj\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.BOL\obj\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje27Şubat\Career.BOL\obj\Debug\Career.BOL.csprojAssemblyReference.cache
+C:\Users\Section1\Downloads\projeKariyer\Career.BOL\bin\Debug\Career.BOL.dll
+C:\Users\Section1\Downloads\projeKariyer\Career.BOL\bin\Debug\Career.BOL.pdb
+C:\Users\Section1\Downloads\projeKariyer\Career.BOL\obj\Debug\Career.BOL.csprojAssemblyReference.cache
+C:\Users\Section1\Downloads\projeKariyer\Career.BOL\obj\Debug\Career.BOL.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Downloads\projeKariyer\Career.BOL\obj\Debug\Career.BOL.dll
+C:\Users\Section1\Downloads\projeKariyer\Career.BOL\obj\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.BOL\bin\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.BOL\bin\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.BOL\obj\Debug\Career.BOL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.BOL\obj\Debug\Career.BOL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.BOL\obj\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje9Mart\Career.BOL\obj\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.BOL\bin\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.BOL\bin\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.BOL\obj\Debug\Career.BOL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.BOL\obj\Debug\Career.BOL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.BOL\obj\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje14Mart\Career.BOL\obj\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.BOL\bin\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.BOL\bin\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.BOL\obj\Debug\Career.BOL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.BOL\obj\Debug\Career.BOL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.BOL\obj\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje18Mart\Career.BOL\obj\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.BOL\bin\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.BOL\bin\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.BOL\obj\Debug\Career.BOL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.BOL\obj\Debug\Career.BOL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.BOL\obj\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\dosyalarım1\WİSSEN ZİP\Proje25Mart\Career.BOL\obj\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.BOL\bin\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.BOL\bin\Debug\Career.BOL.pdb
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.BOL\bin\Debug\Facebook.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.BOL\bin\Debug\Facebook.xml
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.BOL\obj\Debug\Career.BOL.csprojAssemblyReference.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.BOL\obj\Debug\Career.BOL.csproj.CoreCompileInputs.cache
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.BOL\obj\Debug\Career.BOL.csproj.CopyComplete
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.BOL\obj\Debug\Career.BOL.dll
+C:\Users\E430\Desktop\WİSSEN ZİP\Proje4Mayıs\Career.BOL\obj\Debug\Career.BOL.pdb

@@ -1,0 +1,203 @@
+﻿@using itcareernet.ViewModels
+@model JobsWithCities
+
+@{
+    Layout = null;
+}
+@using (Html.BeginForm("Create", "PublishJob", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Gentelella Alela! | </title>
+     Bootstrap 
+    <link href="/Content/admin/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="/Content/admin/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="/Content/admin/vendors/nprogress/nprogress.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="/Content/admin/build/css/custom.min.css" rel="stylesheet">
+</head>
+<body>
+    <form class="form-horizontal form-label-left" novalidate action="">
+        @Html.AntiForgeryToken()
+        <p>
+            For alternative validation library <code>parsleyJS</code> check out in the <a href="form.html">form page</a>
+        </p>
+        <span class="section">Personal Info</span>
+
+
+        <div class="item form-group">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.findEmployeeSubCats.CompanyName, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.findEmployeeSubCats.CompanyName, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.findEmployeeSubCats.CompanyName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <br />
+
+        <div class="item form-group">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="form-group">
+                    @Html.LabelFor(model => model.findEmployeeSubCats.JobTitle, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.findEmployeeSubCats.JobTitle, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.findEmployeeSubCats.JobTitle, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br />
+
+        <div class="item form-group">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="form-group">
+                    @Html.LabelFor(model => model.findEmployeeSubCats.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.findEmployeeSubCats.Email, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.findEmployeeSubCats.Email, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br />
+
+        <div class="item form-group">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                @Html.LabelFor(model => model.findEmployeeSubCats.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.findEmployeeSubCats.Description, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.findEmployeeSubCats.Description, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="form-group">
+            <label class="control-label col-md-2">Şehir</label>
+            <div class="col-md-10">
+                <div class="AddCity">
+
+                    @Html.DropDownList("City", new SelectList(ViewBag.Cities, "Plaque", "Name"), "Şehir Seçiniz"))
+
+                    @*@Html.DropDownList("Categories", (SelectList)ViewBag.Category, "Kategori Seçiniz", new { @onchange = "GetSubCategory(this)", @class = "custom-select" })*@
+     @*<button onclick="addCity" class="right" style="border:dashed;background-color:lawngreen">EKLE</button>*@
+
+                </div>
+            </div> 
+        </div>
+        <br />
+        @*<div width="400px" class="col-md-6 col-sm-6 col-xs-12">
+            <textarea name="editor1" id="editor1" rows="10" cols="80" width="50%">
+                This is my textarea to be replaced with CKEditor.
+            </textarea>
+        </div>*@
+
+
+        <div class="item form-group">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+
+                <div class="col-md-10">
+                    <input type="file" name="Logo" />
+                </div>
+            </div>
+        </div>
+
+
+        @*<div class="item form-group">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                @Html.LabelFor(model => model.cities, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => ViewData["cities"], htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.cities, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>*@
+
+        <div class="item form-group">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                @Html.LabelFor(model => model.findEmployeeSubCats.MilitaryState, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EnumDropDownListFor(model => model.findEmployeeSubCats.MilitaryState, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.findEmployeeSubCats.MilitaryState, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <br />
+
+        <div class="item form-group">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                @Html.LabelFor(model => model.findEmployeeSubCats.Experience, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EnumDropDownListFor(model => model.findEmployeeSubCats.Experience, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.findEmployeeSubCats.Experience, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <br />
+
+        <div class="item form-group">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                @Html.LabelFor(model => model.findEmployeeSubCats.JobType, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EnumDropDownListFor(model => model.findEmployeeSubCats.JobType, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.findEmployeeSubCats.JobType, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <br />
+
+        <div class="item form-group">
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                @Html.LabelFor(model => model.findEmployeeSubCats.PosLevel, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EnumDropDownListFor(model => model.findEmployeeSubCats.PosLevel, htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.findEmployeeSubCats.PosLevel, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <br />
+
+
+
+
+        <div class="ln_solid"></div>
+        <div class="form-group">
+            <div class="col-md-6 col-md-offset-3">
+                @*<button type="submit" class="btn btn-primary">Cancel</button>*@
+                <button id="send" type="submit" class="btn btn-success">Yayınla</button>
+            </div>
+        </div>
+    </form>
+    <script src="/Content/admin/vendors/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="/Content/admin/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- FastClick -->
+    <script src="/Content/admin/vendors/fastclick/lib/fastclick.js"></script>
+    <!-- NProgress -->
+    <script src="/Content/admin/vendors/nprogress/nprogress.js"></script>
+    <!-- validator -->
+    <script src="/Content/admin/vendors/validator/validator.js"></script>
+    <!-- Custom Theme Scripts -->
+    <script src="/Content/admin/build/js/custom.min.js"></script>
+
+    <script src="/Content/ckeditor/ckeditor.js"></script>
+    <script src="/Content/ckeditor/main.js"></script>
+
+</body>
+
+</html>
+
+}

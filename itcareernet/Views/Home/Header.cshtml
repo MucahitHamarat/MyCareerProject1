@@ -1,0 +1,69 @@
+﻿@using Career.BOL.Entities
+@model IEnumerable<Category>
+<header>
+   
+    <div class="top">
+        <div class="container">
+            <div class="row">
+                <div class="span6">
+                    <ul class="topmenu">
+
+                        <li><a href="#">Sözleşme ve Kurallar</a> &#47;</li>
+                        <li><a href="#">Gizlilik Politikası</a></li>
+                    </ul>
+                 
+                </div>
+                <div class="span6">
+
+                    <ul class="social-network">
+
+                        <li> <a href="@Url.Action("ChangeLang","Home",new { langX="tr",returnURL=Request.RawUrl})">
+    <img src="~/Content/img/bayrak.jpg" />/
+</a> </li>
+                        <li> <a href="@Url.Action("ChangeLang","Home",new { langX="eng",returnURL=Request.RawUrl})">
+    <img src="~/Content/img/eng.jpg" />
+</a></li>
+                        <li><a href="#" data-placement="bottom" title="Facebook"><i class="ico-circled icon-bglight icon-facebook"></i></a></li>
+                        <li><a href="#" data-placement="bottom" title="Twitter"><i class="ico-circled icon-bglight icon-twitter"></i></a></li>
+                        <li><a href="#" data-placement="bottom" title="Linkedin"><i class="ico-circled icon-linkedin icon-bglight"></i></a></li>
+                        <li><a href="#" data-placement="bottom" title="Pinterest"><i class="ico-circled icon-pinterest  icon-bglight"></i></a></li>
+                        <li><a href="#" data-placement="bottom" title="Google +"><i class="ico-circled icon-google-plus icon-bglight"></i></a></li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+
+
+        <div class="row nomargin">
+            <div class="span4">
+                <div class="logo">
+                    <h1><a href="/Home"><i class="ico-tint"></i> biltekkariyer.net</a></h1>
+                </div>
+            </div>
+            <div class="span8">
+                <div class="navbar navbar-static-top">
+                    <div class="navigation">
+                        <nav>
+                            <ul class="nav topnav">
+                                @foreach(Category hbk in Model.Where(i=>i.ParentID==null)) 
+                                {
+                             
+                                <li> <a href="Member/@hbk.Url">@hbk.Name
+
+                                     </a></li>
+                                        
+                                }
+                               <li class="active" ><a href="PublishJob/Create">ÜCRETSİZ İLAN EKLE</a></li>
+                               <li><a href="Home/Contact">İLETİŞİM</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <!-- end navigation -->
+                </div>
+            </div>
+        </div>
+    </div>
+</header>

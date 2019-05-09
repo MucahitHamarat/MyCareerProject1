@@ -1,0 +1,38 @@
+﻿#sub-footer{
+    clear:both;
+    
+}
+
+.BULMAK{
+    width:100%
+}
+.BULMAK > div {
+    width: 50%;
+    float:left;
+    text-align: center;
+    display: inline-block;
+}
+    .BULMAK > div > a {
+        margin:auto;
+        width:100px;
+        display: block;
+    }
+
+.buttons > span:nth-child(1) {
+    /*margin-left: 50px;*/
+    padding-left: 100px;
+}
+.buttons >span:nth-child(2) {
+    /*margin-left: 50px;*/
+    padding-left:300px;
+}
+
+
+    .cont2 {
+ 
+    background-color: darkred;
+    float: left;
+    width: 100%
+}
+
+
