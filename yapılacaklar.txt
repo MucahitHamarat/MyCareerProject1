@@ -1,2 +1,11 @@
-Trendwayde Helper var,orada cookie ile sepete ekleme,g�ncelleme var.Favori ilanlar� yapabilirsin buna bezer
-olarak.
+Trendwayde Helper'da cookie ile sepete ekleme,güncelleme var.Favori ilanları yapabilirsin buna benzer olarak yapabilirsin
+İş bulma butonuna filtreleme yaptır.
+İş bulunduktan sonra gelen ilanlarda favorilere ekleme KALP ikonu dahil et.Bunlar yeni oluşturacağın favori ilanlara eklensin.
+İngilizce'ye çevirme butonundaki hatayı düzelt
+En altta iletişime geçin kısmında mail göndert,ve Contact sayfasında da.
+İlan yayınlamaya logo-CK Editörü ve Şehirler sınıfını dahil et.
+Projede tecrübe olsun diye Pup-up Widget dahil et.
+Kullanıcılar Log-in işlemini Facebook veya Gmail ile yapabilsin.
+Üyelerden kendilerini tanıttıkları 5 dakiayı geçmeyecek bir youtube linkini şart koy.Bunu nasıl yapacaklarını anlatan kısa bir video ekle
+Üyelerden Linkedin-Kariyernet-Github linklerini istediğin textbox ekle.Teşvik edici olur.
+İnternette yayınladıktan sonra site için bir Web API projesi oluştur.
